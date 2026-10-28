@@ -4,9 +4,9 @@
 
 **ติดตั้งชุดม็อด Palworld · อัปเดตแบบเกม · ภาษาไทย**
 
-[**⬇ ติดตั้งครั้งแรก — ตัวเต็ม**](https://github.com/needsleeps/NeedSleep-Mod-Studio/releases/latest/download/NeedSleep-Mod-Studio-Setup.exe)
+[**⬇ ตัวเต็มสำรอง / ฐานออฟไลน์**](https://github.com/needsleeps/NeedSleep-Mod-Studio/releases/download/v4.2.0/NeedSleep-Mod-Studio-Setup.exe)
 &nbsp; · &nbsp;
-[**🚀 ผู้ใช้เดิม — Launcher ใหม่**](https://github.com/needsleeps/NeedSleep-Mod-Studio/releases/latest/download/NeedSleep-Launcher.exe)
+[**🚀 เริ่มด้วยไฟล์เดียว — Launcher**](https://github.com/needsleeps/NeedSleep-Mod-Studio/releases/latest/download/NeedSleep-Launcher.exe)
 &nbsp; · &nbsp;
 [แพตช์โน้ต](https://github.com/needsleeps/NeedSleep-Mod-Studio/releases/latest)
 
@@ -16,7 +16,7 @@
 
 ### เริ่มใช้งาน
 
-1. **ผู้เล่นใหม่:** เปิด `NeedSleep-Mod-Studio-Setup.exe` เพื่อติดตั้งโปรแกรมและข้อมูลตั้งต้น
+1. **ผู้เล่นใหม่:** เปิด `NeedSleep-Launcher.exe` ไฟล์เดียว โปรแกรมจะดาวน์โหลดตัวโปรแกรมและข้อมูลตั้งต้นให้เอง (ข้อมูลม็อดครั้งแรกประมาณ 1 GB)
 2. **ผู้ใช้รุ่นเดิม:** ปิด Mod Studio แล้วเปิด `NeedSleep-Launcher.exe` รุ่นใหม่หนึ่งครั้ง เพื่อซ่อมชอร์ตคัตและเพิ่มระบบแพตช์ต่อเนื่อง
 3. ใช้ชอร์ตคัต **NeedSleep Mod Studio** บนเดสก์ท็อป → รออัปเดต → เลือก **ติดตั้งแบบสมบูรณ์**
 
