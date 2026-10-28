@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs><linearGradient id="g"><stop stop-color="#102334"/><stop offset="1" stop-color="#221b35"/></linearGradient></defs>
+<rect width="1200" height="300" rx="24" fill="url(#g)"/>
+<path d="M60 64h90M60 64v90M1140 236h-90M1140 236v-90" fill="none" stroke="#50ebd2" stroke-width="4"/>
+<text x="600" y="126" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="58" fill="#50ebd2">NEEDSLEEP</text>
+<text x="600" y="184" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="34" fill="#f4f5f8" letter-spacing="8">MOD STUDIO</text>
+<text x="600" y="237" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#aebfd0">ONE SETUP  /  AUTOMATIC UPDATES  /  PALWORLD CLIENT</text>
+</svg>
